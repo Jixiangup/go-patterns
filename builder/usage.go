@@ -9,5 +9,4 @@ func Usage() {
 	// 运动车辆
 	sportsCar := NewBuilder().Color(White).Wheels(Sports).TopSpeed(150 * MPH).Build()
 	_ = sportsCar.Drive()
-
 }
