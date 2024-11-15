@@ -1,5 +1,0 @@
-package abstract
-
-func Usage() {
-
-}
